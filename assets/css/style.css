@@ -45,7 +45,7 @@
        height: 100%;
        overflow: auto;
        background-color: rgb(225, 224, 231);
-       background-image: url("../images/colourchem.jpg");
+       background-image: url("../images/backgrounds/background1440webp.webp");
        background-position: center;
        background-repeat: no-repeat;
        background-size: cover;
@@ -76,6 +76,7 @@
    
    #maintitle {
     color: white;
+    text-decoration: underline;
    }
 
    /*Main game*/
